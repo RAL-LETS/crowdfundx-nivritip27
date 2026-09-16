@@ -12,3 +12,4 @@ History of development milestones:
 - [2026-09-14T11:55:25+05:30] Milestone 8: Add data structures and model definitions
 - [2026-09-14T22:15:02+05:30] Milestone 9: Implement utility helpers and formatting functions
 - [2026-09-15T04:04:18+05:30] Milestone 10: Add interface definitions and type annotations
+- [2026-09-16T08:21:09+05:30] Milestone 11: Implement authentication and access control logic
