@@ -17,3 +17,4 @@ History of development milestones:
 - [2026-09-18T00:42:11+05:30] Milestone 13: Update component styles and responsive design
 - [2026-09-18T05:32:29+05:30] Milestone 14: Implement transaction building and submission flows
 - [2026-09-18T20:44:08+05:30] Milestone 15: Add error handling and fallback boundaries
+- [2026-09-22T01:57:57+05:30] Milestone 16: Refactor state updates and subscription logic
