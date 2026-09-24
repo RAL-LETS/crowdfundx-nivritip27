@@ -18,3 +18,4 @@ History of development milestones:
 - [2026-09-18T05:32:29+05:30] Milestone 14: Implement transaction building and submission flows
 - [2026-09-18T20:44:08+05:30] Milestone 15: Add error handling and fallback boundaries
 - [2026-09-22T01:57:57+05:30] Milestone 16: Refactor state updates and subscription logic
+- [2026-09-24T07:05:00+05:30] Milestone 17: Add unit tests and test fixtures
