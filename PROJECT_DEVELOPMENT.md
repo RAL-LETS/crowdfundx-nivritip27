@@ -26,3 +26,4 @@ History of development milestones:
 - [2026-09-28T05:24:22+05:30] Milestone 22: Refactor API service calls and caching
 - [2026-09-28T18:54:52+05:30] Milestone 23: Fix responsive layout glitches on mobile viewports
 - [2026-09-28T22:21:16+05:30] Milestone 24: Enhance contract invocation event listeners
+- [2026-10-01T10:25:24+05:30] Milestone 25: Add telemetry and activity logging
