@@ -28,3 +28,4 @@ History of development milestones:
 - [2026-09-28T22:21:16+05:30] Milestone 24: Enhance contract invocation event listeners
 - [2026-10-01T10:25:24+05:30] Milestone 25: Add telemetry and activity logging
 - [2026-10-03T14:08:24+05:30] Milestone 26: Update build scripts and deployment targets
+- [2026-10-03T23:57:40+05:30] Milestone 27: Refactor reusable UI components
